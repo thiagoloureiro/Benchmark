@@ -7,7 +7,9 @@ namespace BenchNET
 	{
 		private static void Main(string[] args)
 		{
-			var summary = BenchmarkRunner.Run<Iterate>();
+			BenchmarkRunner.Run<Iterate>();
+			BenchmarkRunner.Run<ListClear>();
+			BenchmarkRunner.Run<Md5VsSha256>();
 
 			Console.ReadLine();
 		}

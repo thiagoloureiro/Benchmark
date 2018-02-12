@@ -136,6 +136,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Iterate.cs" />
+    <Compile Include="ListClear.cs" />
     <Compile Include="Md5VsSha256.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
