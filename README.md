@@ -1,4 +1,6 @@
 # Benchmark
+[![Build status](https://ci.appveyor.com/api/projects/status/44kh33bly9aa6a3y?svg=true)](https://ci.appveyor.com/project/thiagoloureiro/benchmark)
+
 Code sample for an article posted on Medium:
 https://medium.com/@thiagoloureiro/benchmark-medindo-a-performance-na-sua-aplicacac%C3%A3o-8deef4a8fae2
 
