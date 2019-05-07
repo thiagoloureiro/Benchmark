@@ -7,7 +7,7 @@ https://medium.com/@thiagoloureiro/benchmark-medindo-a-performance-na-sua-aplica
 Using Bechmarkdotnet component.
 
 Output
-
+```
 // * Summary *
 
 BenchmarkDotNet=v0.11.5, OS=Windows 10.0.17763.475 (1809/October2018Update/Redstone5)
@@ -28,3 +28,4 @@ Intel Core i7-8750H CPU 2.20GHz (Coffee Lake), 1 CPU, 12 logical and 6 physical 
   1 us   : 1 Microsecond (0.000001 sec)
 
 // ***** BenchmarkRunner: End *****
+```
